@@ -1,6 +1,6 @@
 # React + Vite
 
-### Deployed Url : https://laravel-react-frontend.netlify.app/
+### Deployed Url : https://react-with-laravel.netlify.app
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
